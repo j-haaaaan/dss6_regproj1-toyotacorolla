@@ -4,14 +4,14 @@ Regression Project ; Toyota Corolla Price Prediction
 Abstract
 -------------
 
-[프로젝트 목표]
+>[프로젝트 목표]
  제시된 Toyota사의 Corolla차량의 중고차 가격 데이터(training)를 바탕으로 회귀분석을 통해 새로이 제시되는 중고차 가격(test)을 예측해 보는 것이다.
  
-- **training data : 1019 rows, 39 columns**
-- **test data : 417 rows, 38 columns(price열 제외)**
+> - **training data : 1019 rows, 39 columns**
+> - **test data : 417 rows, 38 columns(price열 제외)**
  
-[프로젝트 평가]
- 실제 가격과 예측한 가격의 차이를 **Root-Mean-Squared-Error(RMSE)** 를 통하여 채점한다.
+> [프로젝트 평가]
+> - 실제 가격과 예측한 가격의 차이를 **Root-Mean-Squared-Error(RMSE)** 를 통하여 채점한다.
  
 -------------
 
