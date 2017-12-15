@@ -11,7 +11,7 @@ Abstract
 - **test data : 417 rows, 38 columns(price열 제외)**
  
 [프로젝트 평가]
- 실제 가격과 예측한 가격의 차이를 **Root-Mean-Squared-Error(RMSE)**를 통하여 채점한다.
+ 실제 가격과 예측한 가격의 차이를 **Root-Mean-Squared-Error(RMSE)** 를 통하여 채점한다.
  
 -------------
 
